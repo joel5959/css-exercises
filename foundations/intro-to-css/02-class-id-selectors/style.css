@@ -1,0 +1,19 @@
+.class1 {
+    background-color: rgb(238, 112, 112);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#id1 {
+    color:blue;
+    font-size: 36px;
+}
+
+.font-adjust{
+    font-size: 24px;
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-weight: bold;
+
+}
